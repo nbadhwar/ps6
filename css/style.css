@@ -1,0 +1,23 @@
+body{
+    background-color: #add8e652;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+#picture1, #picture2{
+    width: 300px;
+    height: 400px;
+    margin-left: 40%;
+}
+
+.title{
+    font-size: 24px;
+}
+
+p{
+    color: #003366;
+    text-align: center;
+}
+
+footer p{
+    color: black;
+}
